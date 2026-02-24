@@ -11,12 +11,4 @@ export const QUESTIONS: Question[] = [
   { id: 8, question: "2546 ... 2564", options: ["<", ">", "="], correctAnswer: 0 },
   { id: 9, question: "8888 ... 8889", options: ["<", ">", "="], correctAnswer: 0 },
   { id: 10, question: "6721 ... 6712", options: ["<", ">", "="], correctAnswer: 1 },
-  { id: 11, question: "4005 ... 4050", options: ["<", ">", "="], correctAnswer: 0 },
-  { id: 12, question: "9999 ... 10000", options: ["<", ">", "="], correctAnswer: 0 },
-  { id: 13, question: "5505 ... 5505", options: ["<", ">", "="], correctAnswer: 2 },
-  { id: 14, question: "1200 ... 1199", options: ["<", ">", "="], correctAnswer: 1 },
-  { id: 15, question: "3040 ... 3400", options: ["<", ">", "="], correctAnswer: 0 },
-  { id: 16, question: "7770 ... 7707", options: ["<", ">", "="], correctAnswer: 1 },
-  { id: 17, question: "2121 ... 2121", options: ["<", ">", "="], correctAnswer: 2 },
-  { id: 18, question: "8000 ... 7999", options: ["<", ">", "="], correctAnswer: 1 },
 ];
